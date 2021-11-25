@@ -80,4 +80,4 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 42. Tìm sản phẩm (MASP, TENSP) có tổng số lượng bán ra thấp nhất trong năm 2006.
 43. *Mỗi nước sản xuất, tìm sản phẩm (MASP,TENSP) có giá bán cao nhất. 
 44. Tìm nước sản xuất sản xuất ít nhất 3 sản phẩm có giá bán khác nhau. 
-45. *Trong 10 khách hàng có doanh số cao nhất, tìm khách hàng có số lần mua hàng nhiều  
+45. \*Trong 10 khách hàng có doanh số cao nhất, tìm khách hàng có số lần mua hàng nhiều  
