@@ -1,4 +1,4 @@
-**Cho cơ sở dữ liệu sau:**
+**<h1>Cho cơ sở dữ liệu sau:</h1>**
 
 📌KHACHHANG(<u>MAKH</u>, HOTEN, DCHI, SODT, NGSINH, DOANHSO, NGDK)
 Tân từ: Quan hệ khách hàng sẽ lưu trữ thông tin của khách hàng thành viên gồm có các thuộc tính:  mã khách hàng, họ tên, địa chỉ, số điện thoại, ngày sinh, ngày đăng ký và doanh số (tổng trị giá  các hóa đơn của khách hàng thành viên này). 
