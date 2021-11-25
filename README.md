@@ -38,7 +38,8 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 5. Cập nhật giá trị LOAIKH là “Vip” đối với những khách hàng đăng ký thành viên trước  ngày 1/1/2007 có doanh số từ 10.000.000 trở lên hoặc khách hàng đăng ký thành viên từ  1/1/2007 trở về sau có doanh số từ 2.000.000 trở lên (cho quan hệ KHACHHANG1). 
 
 **III. Ngôn ngữ truy vấn dữ liệu:**
-1. In ra danh sách các sản phẩm (MASP,TENSP) do “Trung Quoc” sản xuất. 2. In ra danh sách các sản phẩm (MASP, TENSP) có đơn vị tính là “cay”, ”quyen”. 
+1. In ra danh sách các sản phẩm (MASP,TENSP) do “Trung Quoc” sản xuất. 
+2. In ra danh sách các sản phẩm (MASP, TENSP) có đơn vị tính là “cay”, ”quyen”. 
 3. In ra danh sách các sản phẩm (MASP,TENSP) có mã sản phẩm bắt đầu là “B” và kết  thúc là “01”. 
 4. In ra danh sách các sản phẩm (MASP,TENSP) do “Trung Quốc” sản xuất có giá từ 30.000  đến 40.000. 
 5. In ra danh sách các sản phẩm (MASP,TENSP) do “Trung Quoc” hoặc “Thai Lan” sản  xuất có giá từ 30.000 đến 40.000. 
@@ -55,7 +56,7 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 16. In ra danh sách các sản phẩm (MASP,TENSP) không bán được trong năm 2006. 
 17. In ra danh sách các sản phẩm (MASP,TENSP) do “Trung Quoc” sản xuất không bán được trong năm 2006. 
 18. Tìm số hóa đơn đã mua tất cả các sản phẩm do Singapore sản xuất. 
-19. Tìm số hóa đơn trong năm 2006 đã mua ít nhất tất cả các sản phẩm do Singapore sản  xuất. 
+19. Tìm số hóa đơn trong năm 2006 đã mua ít nhất tất cả các sản phẩm do Singapore sản xuất. 
 20. Có bao nhiêu hóa đơn không phải của khách hàng đăng ký thành viên mua? 
 21. Có bao nhiêu sản phẩm khác nhau được bán ra trong năm 2006. 
 22. Cho biết trị giá hóa đơn cao nhất, thấp nhất là bao nhiêu ? 
@@ -64,9 +65,9 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 25. Tìm số hóa đơn có trị giá cao nhất trong năm 2006. 
 26. Tìm họ tên khách hàng đã mua hóa đơn có trị giá cao nhất trong năm 2006. 
 27. In ra danh sách 3 khách hàng đầu tiên (MAKH, HOTEN) sắp xếp theo doanh số giảm  dần. 
-28. In ra danh sách các sản phẩm (MASP, TENSP) có giá bán bằng 1 trong 3 mức giá cao  nhất. 
+28. In ra danh sách các sản phẩm (MASP, TENSP) có giá bán bằng 1 trong 3 mức giá cao nhất. 
 29. In ra danh sách các sản phẩm (MASP, TENSP) do “Thai Lan” sản xuất có giá bằng 1  trong 3 mức giá cao nhất (của tất cả các sản phẩm). 
-30. In ra danh sách các sản phẩm (MASP, TENSP) do “Trung Quoc” sản xuất có giá bằng 1  trong 3 mức giá cao nhất (của sản phẩm do “Trung Quoc” sản xuất). 
+30. In ra danh sách các sản phẩm (MASP, TENSP) do “Trung Quoc” sản xuất có giá bằng 1 trong 3 mức giá cao nhất (của sản phẩm do “Trung Quoc” sản xuất). 
 31. In ra danh sách khách hàng nằm trong 3 hạng cao nhất (xếp hạng theo doanh số). 
 32. Tính tổng số sản phẩm do “Trung Quoc” sản xuất. 
 33. Tính tổng số sản phẩm của từng nước sản xuất. 
