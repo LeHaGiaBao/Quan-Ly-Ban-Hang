@@ -68,7 +68,7 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 28. In ra danh sách các sản phẩm (MASP, TENSP) có giá bán bằng 1 trong 3 mức giá cao nhất. 
 29. In ra danh sách các sản phẩm (MASP, TENSP) do “Thai Lan” sản xuất có giá bằng 1  trong 3 mức giá cao nhất (của tất cả các sản phẩm). 
 30. In ra danh sách các sản phẩm (MASP, TENSP) do “Trung Quoc” sản xuất có giá bằng 1 trong 3 mức giá cao nhất (của sản phẩm do “Trung Quoc” sản xuất). 
-31. In ra danh sách khách hàng nằm trong 3 hạng cao nhất (xếp hạng theo doanh số). 
+31. *In ra danh sách khách hàng nằm trong 3 hạng cao nhất (xếp hạng theo doanh số). 
 32. Tính tổng số sản phẩm do “Trung Quoc” sản xuất. 
 33. Tính tổng số sản phẩm của từng nước sản xuất. 
 34. Với từng nước sản xuất, tìm giá bán cao nhất, thấp nhất, trung bình của các sản phẩm. 
@@ -80,6 +80,6 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 40. Tìm khách hàng (MAKH, HOTEN) có số lần mua hàng nhiều nhất.  
 41. Tháng mấy trong năm 2006, doanh số bán hàng cao nhất ? 
 42. Tìm sản phẩm (MASP, TENSP) có tổng số lượng bán ra thấp nhất trong năm 2006.
-43.  Mỗi nước sản xuất, tìm sản phẩm (MASP,TENSP) có giá bán cao nhất.
+43. *Mỗi nước sản xuất, tìm sản phẩm (MASP,TENSP) có giá bán cao nhất.
 44. Tìm nước sản xuất sản xuất ít nhất 3 sản phẩm có giá bán khác nhau.
-45. Trong 10 khách hàng có doanh số cao nhất, tìm khách hàng có số lần mua hàng nhiều nhất.
+45. *Trong 10 khách hàng có doanh số cao nhất, tìm khách hàng có số lần mua hàng nhiều nhất.
