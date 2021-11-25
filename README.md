@@ -71,7 +71,8 @@ Tân từ: Diễn giải chi tiết trong mỗi hóa đơn gồm có những s�
 31. In ra danh sách khách hàng nằm trong 3 hạng cao nhất (xếp hạng theo doanh số). 
 32. Tính tổng số sản phẩm do “Trung Quoc” sản xuất. 
 33. Tính tổng số sản phẩm của từng nước sản xuất. 
-34. Với từng nước sản xuất, tìm giá bán cao nhất, thấp nhất, trung bình của các sản phẩm. 35. Tính doanh thu bán hàng mỗi ngày. 
+34. Với từng nước sản xuất, tìm giá bán cao nhất, thấp nhất, trung bình của các sản phẩm. 
+35. Tính doanh thu bán hàng mỗi ngày. 
 36. Tính tổng số lượng của từng sản phẩm bán ra trong tháng 10/2006. 
 37. Tính doanh thu bán hàng của từng tháng trong năm 2006. 
 38. Tìm hóa đơn có mua ít nhất 4 sản phẩm khác nhau. 
